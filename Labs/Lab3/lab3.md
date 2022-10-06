@@ -6,11 +6,15 @@ Course: CIS106
 
 # Lab 3 Submission
 
-## Question 
+## Question 1
 Has no submission
 ![date](date-command.png)
 
 ## Question 2
+
+![q2](q2.png)
+
+## Question 3
 
 | Program purpose     | Package Name     | Version                  |
 | ------------------- | ---------------- | ------------------------ |
@@ -29,3 +33,13 @@ Has no submission
 3. sudo apt install blockattack+ dragonplayer+ epiphany-browser- getmail6- draai-
 
 ## Question 4
+
+| command | what it does                                                   |
+| ------- | -------------------------------------------------------------- |
+| echo    | displays a line of text                                        |
+| fortune | print a random, hopefully interesting, adage                   |
+| cowsay  | configurable speaking/thinking cow (and a bit more)            |
+| lolcat  | rainbow coloring effect for text console display               |
+| figlet  | display large characters made up of ordinary screen characters |
+| toilet  | display large colourful characters                             |
+| rig     | Random Identity Generator                                      |
